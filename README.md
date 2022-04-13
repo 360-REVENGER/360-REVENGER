@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @360-REVENGER
 - 👀 I’m interested in ...Web Design and Devolupment
-- 🌱 I’m currently learning ...Javascrept and C
+- 🌱 I’m currently learning ...Python,C,C++ andC# 
 - 💞️ I’m looking to collaborate on ...********
 - 📫 How to reach me ...
 
